@@ -1,0 +1,39 @@
+.float-child1 {
+background-color: #FFF9CA;
+width: 50%;
+float: left;
+padding-top: 300px;
+padding-bottom:342px;
+}
+
+.float-child2 {
+background-color: #FEF9A7;
+width: 50%;
+float: left;
+padding-top: 300px;
+padding-bottom: 400px;
+}
+
+.snakepic {
+width: 10%;
+}
+
+.BODY {
+  background-color: black;
+}
+
+.title1 {
+  font-family: 'Edu SA Beginner', cursive;
+  font-size: 70px;
+  position: relative;
+  padding-right: 150px;
+  top: 45px;
+}
+
+.title2  {
+  font-family: 'Edu SA Beginner', cursive;
+  font-size: 70px;
+    padding-left: 150px;
+    position: relative;
+    bottom: 45px;
+}
